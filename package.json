@@ -1,0 +1,17 @@
+{
+  "name": "tsparticles-ts4.4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc -b tsconfig.json --force"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tsparticles-preset-confetti": "1.19.1",
+    "typescript": "4.4.3"
+  }
+}
